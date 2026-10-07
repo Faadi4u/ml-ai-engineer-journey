@@ -38,8 +38,7 @@ completing tutorials or collecting certificates.
 ## Learning Path
 
 ```text
-Python
-   ↓
+
 NumPy
    ↓
 Pandas
@@ -77,31 +76,30 @@ Cloud
 
 ### Foundations
 
-* `01-python/` — Python programming and practical fundamentals
-* `02-numpy/` — Numerical computing with NumPy
-* `03-pandas/` — Data manipulation and analysis
-* `04-sql/` — SQL and data querying
-* `05-mathematics/` — Mathematics required for machine learning
+* `01-numpy/` — Numerical computing with NumPy
+* `02-pandas/` — Data manipulation and analysis
+* `03-sql/` — SQL and data querying
+* `04-mathematics/` — Mathematics required for machine learning
 
 ### Machine Learning
 
-* `06-classical-ml/` — Classical machine learning
-* `07-neural-networks/` — Neural networks
-* `08-pytorch/` — Deep learning with PyTorch
+* `05-classical-ml/` — Classical machine learning
+* `06-neural-networks/` — Neural networks
+* `07-pytorch/` — Deep learning with PyTorch
 
 ### Modern AI
 
-* `09-transformers/` — Transformer architectures and modern NLP
-* `10-llm/` — Large Language Models
-* `11-rag/` — Retrieval-Augmented Generation
-* `12-fine-tuning/` — Fine-tuning and model adaptation
-* `13-agents/` — AI agents and tool use
+* `08-transformers/` — Transformer architectures and modern NLP
+* `09-llm/` — Large Language Models
+* `10-rag/` — Retrieval-Augmented Generation
+* `11-fine-tuning/` — Fine-tuning and model adaptation
+* `12-agents/` — AI agents and tool use
 
 ### Production AI
 
-* `14-deployment/` — Model and AI application deployment
-* `15-mlops/` — Production ML practices
-* `16-cloud/` — Cloud infrastructure and services
+* `13-deployment/` — Model and AI application deployment
+* `14-mlops/` — Production ML practices
+* `15-cloud/` — Cloud infrastructure and services
 
 ---
 

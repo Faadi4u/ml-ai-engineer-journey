@@ -64,13 +64,6 @@ and progressive development toward production-oriented AI engineering.
 * [ ] Comparison ufuncs
 * [ ] Reduction ufuncs
 
-## Vectorization
-
-* [ ] Vectorized operations
-* [ ] Vectorization vs Python loops
-* [ ] Benefits of vectorization
-* [ ] Vectorized numerical calculations
-
 ## Aggregation & Axis
 
 * [ ] `sum`

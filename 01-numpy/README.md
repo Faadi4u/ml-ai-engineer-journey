@@ -15,7 +15,7 @@ and machine learning.
 ## Progress
 
 - [x] ndarray
-- [ ] Indexing & Slicing
+- [x] Indexing & Slicing
 - [ ] Array Operations
 - [ ] Broadcasting
 - [ ] Universal Functions (ufuncs)
