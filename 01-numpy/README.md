@@ -16,7 +16,7 @@ and machine learning.
 
 - [x] ndarray
 - [x] Indexing & Slicing
-- [ ] Array Operations
+- [x] Array Operations
 - [ ] Broadcasting
 - [ ] Universal Functions (ufuncs)
 - [ ] Copy & View
