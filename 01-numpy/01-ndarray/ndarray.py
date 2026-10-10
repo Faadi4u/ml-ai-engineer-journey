@@ -56,8 +56,19 @@ print(arr_2d.dtype)
 
 data = np.array([1,2,3,4,4,56,5]) 
 sum_scalar = data + 5 # here 5 is scalar and it will performed on all the element the output should be: [6,7,9,9,61,10]
-sum_array = data + [1,2,3,4,6,7] # Output : Error, Why? Because the array that we are adding have 6 element while our data array is 7. So in array the element must be match in 1D or in nD.
+#sum_array = data + [1,2,3,4,6,7] # Output : Error, Why? Because the array that we are adding have 6 element while our data array is 7. So in array the element must be match in 1D or in nD.
 sum_array_Final = data + [1,2,3,4,6,8,4] # Output is [2,4,6.8,12,64,9]. As you see it performed element wise even for array it is in numpy not in basic python. Thats the power of numpy. 
 print (sum_array_Final)
+
+# Converting datatypes and Creating common arrays using np.zeros(), np.ones(), np.full() and np.arange().
+
+zeros_2d = np.zeros((5,3), dtype=int); # The datatype of np.zeros is Float by default. And in zeros all the values in zero
+ones = np.ones((2,5,5)) # It is same as zeros just elements are in (1's) not (0's)
+full = np.full(8,7) # In which the first value is for elements size and teh second value is for which is the element we have to store
+## Here in full we have (8,7) in which the output is: [7 7 7 7 7 7 7 7]
+
+print(zeros_2d, ones,full) 
+print(full.astype(bool)) ## we can change the type using .astype()
+
 
 
