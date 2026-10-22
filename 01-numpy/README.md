@@ -19,9 +19,9 @@ and machine learning.
 - [x] Array Operations
 - [x] Broadcasting
 - [x] Universal Functions (ufuncs)
-- [ ] Copy & View
-- [ ] Aggregation + Axis
-- [ ] Shape & Reshape
+- [x] Copy & View
+- [x] Aggregation + Axis
+- [x] Shape & Reshape
 - [ ] Iteration
 - [ ] Sorting & Searching
 - [ ] Splitting
