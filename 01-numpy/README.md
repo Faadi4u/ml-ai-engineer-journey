@@ -22,8 +22,8 @@ and machine learning.
 - [x] Copy & View
 - [x] Aggregation + Axis
 - [x] Shape & Reshape
-- [ ] Iteration
-- [ ] Sorting & Searching
+- [x] Iteration
+- [x] Sorting & Searching
 - [ ] Splitting
 - [ ] Linear Algebra
 - [ ] NumPy Mini-Project
