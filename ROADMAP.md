@@ -58,60 +58,60 @@ and progressive development toward production-oriented AI engineering.
 
 ## Universal Functions
 
-* [ ] Ufunc concept
-* [ ] Arithmetic ufuncs
-* [ ] Mathematical ufuncs
-* [ ] Comparison ufuncs
-* [ ] Reduction ufuncs
+* [x] Ufunc concept
+* [x] Arithmetic ufuncs
+* [x] Mathematical ufuncs
+* [x] Comparison ufuncs
+* [x] Reduction ufuncs
 
 ## Aggregation & Axis
 
-* [ ] `sum`
-* [ ] `mean`
-* [ ] `min`
-* [ ] `max`
-* [ ] `std`
-* [ ] `var`
-* [ ] `axis`
-* [ ] Aggregation across dimensions
+* [x] `sum`
+* [x] `mean`
+* [x] `min`
+* [x] `max`
+* [x] `std`
+* [x] `var`
+* [x] `axis`
+* [x] Aggregation across dimensions
 
 ## Copy & View
 
-* [ ] Copy
-* [ ] View
-* [ ] Reference behavior
-* [ ] Modifying views
-* [ ] Memory implications
+* [x] Copy
+* [x] View
+* [x] Reference behavior
+* [x] Modifying views
+* [x] Memory implications
 
 ## Shape & Reshape
 
-* [ ] `shape`
-* [ ] `reshape`
-* [ ] Flattening
-* [ ] `ravel`
-* [ ] Dimension manipulation
+* [x] `shape`
+* [x] `reshape`
+* [x] Flattening
+* [x] `ravel`
+* [x] Dimension manipulation
 
 ## Iteration
 
-* [ ] 1D iteration
-* [ ] 2D iteration
-* [ ] Multi-dimensional iteration
-* [ ] `nditer`
+* [x] 1D iteration
+* [x] 2D iteration
+* [x] Multi-dimensional iteration
+* [x] `nditer`
 
 ## Sorting & Searching
 
-* [ ] Sorting
-* [ ] Searching
-* [ ] Filtering
-* [ ] Finding matching values
-* [ ] Finding indices
+* [x] Sorting
+* [x] Searching
+* [x] Filtering
+* [x] Finding matching values
+* [x] Finding indices
 
 ## Splitting
 
-* [ ] Array splitting
-* [ ] Horizontal splitting
-* [ ] Vertical splitting
-* [ ] Multi-section splitting
+* [x] Array splitting
+* [x] Horizontal splitting
+* [x] Vertical splitting
+* [x] Multi-section splitting
 
 ## Basic Linear Algebra
 
