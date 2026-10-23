@@ -115,10 +115,10 @@ and progressive development toward production-oriented AI engineering.
 
 ## Basic Linear Algebra
 
-* [ ] Dot product
-* [ ] Matrix multiplication
-* [ ] Transpose
-* [ ] Basic `np.linalg`
+* [x] Dot product
+* [x] Matrix multiplication
+* [x] Transpose
+* [x] Basic `np.linalg`
 
 ## NumPy Mini-Project
 

@@ -24,8 +24,8 @@ and machine learning.
 - [x] Shape & Reshape
 - [x] Iteration
 - [x] Sorting & Searching
-- [ ] Splitting
-- [ ] Linear Algebra
+- [x] Splitting
+- [x] Linear Algebra
 - [ ] NumPy Mini-Project
 
 ---
