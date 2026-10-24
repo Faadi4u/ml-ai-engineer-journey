@@ -26,7 +26,7 @@ and machine learning.
 - [x] Sorting & Searching
 - [x] Splitting
 - [x] Linear Algebra
-- [ ] NumPy Mini-Project
+- [x] NumPy Mini-Project
 
 ---
 ## Structure

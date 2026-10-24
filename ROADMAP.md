@@ -122,14 +122,14 @@ and progressive development toward production-oriented AI engineering.
 
 ## NumPy Mini-Project
 
-* [ ] Define problem
-* [ ] Prepare data
-* [ ] Apply NumPy concepts
-* [ ] Analyze results
-* [ ] Document project
-* [ ] Push to GitHub
-* [ ] LinkedIn post
-* [ ] Short demo video
+* [x] Define problem
+* [x] Prepare data
+* [x] Apply NumPy concepts
+* [x] Analyze results
+* [x] Document project
+* [x] Push to GitHub
+* [x] LinkedIn post
+* [x] Short demo video
 
 ---
 
