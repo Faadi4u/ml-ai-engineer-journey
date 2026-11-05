@@ -76,12 +76,12 @@ numpy-ml-pipeline/
 
 ## Completion checklist
 
-- [ ] Task 1 produces a `(10, 6)` sentence matrix, an `(8, 6)` training matrix, and a `(2, 6)` test matrix.
-- [ ] Task 2 reports all sentinel indices and returns only positive, non-corrupted values in ascending order.
-- [ ] Task 3 proves that modifying the copy leaves the raw matrix unchanged.
-- [ ] Task 3 applies `np.log` and scalar scaling without Python loops.
-- [ ] Task 4 reports row means, a four-element feature mean vector, and a `(3, 3)` dot-product matrix.
-- [ ] The script runs from top to bottom without errors and labels its output clearly.
+- [x] Task 1 produces a `(10, 6)` sentence matrix, an `(8, 6)` training matrix, and a `(2, 6)` test matrix.
+- [x] Task 2 reports all sentinel indices and returns only positive, non-corrupted values in ascending order.
+- [x] Task 3 proves that modifying the copy leaves the raw matrix unchanged.
+- [x] Task 3 applies `np.log` and scalar scaling without Python loops.
+- [x] Task 4 reports row means, a four-element feature mean vector, and a `(3, 3)` dot-product matrix.
+- [x] The script runs from top to bottom without errors and labels its output clearly.
 
 ## Implementation approach
 
